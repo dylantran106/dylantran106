@@ -11,23 +11,21 @@
 - 📍 Based in **Ho Chi Minh City, Vietnam**
 - 🎓 Graduated from **Ton Duc Thang University** (Information Technology - Computer Networks and Data Communication)
 - 🛠️ Hands-on experience with **test case design, bug tracking, and test execution**
-- 💡 Learning **automation testing (Selenium, Playwright) and security testing**
-- 📧 Contact me at: **thanhduy.email@example.com**
+- 💡 Learning **automation testing (Appium) and security testing**
+- 📧 Contact me at: **thahhduy.trn@gmail.com**
 
 ---
 
 ## 🛠️ Skills
 - 🔹 Test Case Design & Execution  
 - 🔹 Manual Testing (Functionality, UI/UX, Regression)  
-- 🔹 API Testing (Postman, JMeter)  
+- 🔹 API Testing (Postmam)  
 - 🔹 SQL for Database Testing  
-- 🔹 Bug Tracking & Reporting (JIRA, Redmine)  
-- 🔹 Agile/Scrum Methodologies  
+- 🔹 Bug Tracking & Reporting (JIRA, Odoo)  
 
 <p align="left">
   <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
