@@ -1,4 +1,4 @@
-## Hi there My name is Trần Thanh Duy
+###### Hi there My name is Trần Thanh Duy
 
 <!--
 **dylantran106/dylantran106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
